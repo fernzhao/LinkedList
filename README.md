@@ -1,1 +1,2 @@
-# lll
+# linkedlist
+linklist add, remove, insert
